@@ -27,5 +27,9 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
+## 🎨Projects
+- tick3t - 클라우드를 활용한 티켓 예매 웹 애플리케이션
+
 ## 🎈Experience
 우리 FISA 1기 (클라우드 엔지니어링) - 23.04.24~23.09.27
+
