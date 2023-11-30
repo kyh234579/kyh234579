@@ -20,15 +20,20 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) <br/>
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-
+<br/>
+<br/>
+<br/>
 ## 🎨Projects
-- tick3t - 클라우드를 활용한 티켓 예매 웹 애플리케이션
+- [tick3t](https://github.com/orgs/ThreeHyun/repositories) - 클라우드를 활용한 티켓 예매 웹 애플리케이션 <br/>
+⭐[Notion](https://serapple.notion.site/TEAM-ThreeHyun-8ea80bb729d540e9b254025c9b224cf4?pvs=4)⭐
+<br/>
+<br/>
 
 ## 🎈Experience
 우리 FISA 1기 (클라우드 엔지니어링) - 23.04.24~23.09.27
