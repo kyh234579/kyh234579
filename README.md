@@ -30,8 +30,8 @@
 <br/>
 <br/>
 ## 🎨Projects
-- [tick3t](https://github.com/orgs/ThreeHyun/repositories) - 클라우드를 활용한 티켓 예매 웹 애플리케이션 <br/>
-⭐[Notion](https://serapple.notion.site/TEAM-ThreeHyun-8ea80bb729d540e9b254025c9b224cf4?pvs=4)⭐
+- [tick3t](https://github.com/orgs/ThreeHyun/repositories) - 클라우드를 활용한 티켓 예매 웹 애플리케이션 
+(⭐[Notion](https://serapple.notion.site/TEAM-ThreeHyun-8ea80bb729d540e9b254025c9b224cf4?pvs=4)⭐)
 <br/>
 <br/>
 
